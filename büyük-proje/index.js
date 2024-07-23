@@ -13,7 +13,7 @@ function oyun() {
     let kazancSinsi = 0;
     let kazancGozuKara = 0;
 
-    console.log('Bu oyunu 5 farklı yapay zekaya karşı oynayacaksınız. Her yapay zeka ile 10 tur oynayacaksınız.');
+    console.log('Bu oyunu 5 farklı yapay zekaya karşı oynayacaksınız. Her yapay zeka ile 10 tur oynayacaksınız. ');
     console.log('\nOyunun mantığı: İki taraf da oyunun başında 1 altına sahip.');
     console.log('\nEğer her iki taraf da altını makineye koyarsa ek olarak 2 altın alacaksınız, yani toplam 3 altınız olacak.');
     console.log('\nEğer siz altını koymazsanız, rakip altını koyarsa siz ek olarak 3 altın kazanırken rakip 1 altın kaybedecek. Aynı şekilde siz altın koyarsanız, rakip altın koymazsa siz 1 altın kaybederken rakip 3 altın kazanacak.');
